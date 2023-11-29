@@ -1,13 +1,11 @@
 # Site settings
-title: Johannes Elias Lohbihler
-email: jl@solution.io
+title: dadamachines
+email: hi@dadamachines.com
 description: > # this means to ignore newlines until "baseurl:"
  Johannes Elias Lohbihler is a berlin-based seasoned product designer currently on a sabbatical and happy talking about new job opportunities. Amongst other ventures, he founded dadamachines – a studio for multisensory experiences & open-source music technology. Recently he did a stint at KORG - setting up shop in Berlin. His expertise is ranging from crafts to creating digital and analog experiences, products, or services for large & small clients.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: https://lohbihler.com   # with the https protocol
-enforce_ssl: lohbihler.com   # without any protocol
-twitter:
-  username: nevvkid
+url: https://dadamachines.com   # with the https protocol
+enforce_ssl: dadamachines.com   # without any protocol
 
 # jekyll collections
 collections:
@@ -15,7 +13,7 @@ collections:
     output: true
 
 # Google site verification
-google_verification: TOgqR35-bIMiNWBG5AsFpQCQIsMxPEG9SqjQ3TdE6SI
+google_verification: 
 
 # Build settings
 markdown: kramdown

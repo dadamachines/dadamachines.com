@@ -7,6 +7,9 @@ picture: ../uploads/goethe-beijing.jpg
 order: 5
 ---
 
+The automat toolkit is a plug & play MIDI-controller and accessories kit that allows anyone to build awesome music machines using the real world as their instrument.
+
+
 Back in 2017 **Goethe Institute Beijing** invited **dadamachines** to present
 their toolkit and radically new approach to the interested public.
 {: class="large mb4 max-width-4"}
